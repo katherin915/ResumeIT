@@ -218,8 +218,6 @@ This project demonstrates practical experience with:
 
 **Katherin Pandey**
 
-B.Tech CSE (AI/ML)  
-Galgotias College of Engineering and Technology
 
 ---
 
