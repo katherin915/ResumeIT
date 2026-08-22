@@ -1,0 +1,5 @@
+We are looking for a Software Developer with experience in Python,
+FastAPI, SQL, MongoDB, Git and REST API development.
+
+The candidate should have knowledge of backend development,
+RESTful APIs and database systems.
