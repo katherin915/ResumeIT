@@ -14,3 +14,6 @@ wheels/
 
 # Personal files
 ResumeKatherin.pdf
+# Resume files - keep personal documents out of Git
+resumes/*.pdf
+resumes/*.docx
