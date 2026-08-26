@@ -1,6 +1,6 @@
-# ResumeIQ – AI Resume Matcher
+# ResumeIT – AI Resume Matcher
 
-ResumeIQ is an AI-powered resume screening and candidate ranking system that analyzes a job description against multiple resumes and generates an explainable match score for each candidate.
+ResumeIT is an AI-powered resume screening and candidate ranking system that analyzes a job description against multiple resumes and generates an explainable match score for each candidate.
 
 It uses an LLM to extract structured information from job descriptions and resumes, evaluates candidate-job compatibility, and automatically ranks candidates based on their match scores.
 
@@ -32,7 +32,7 @@ It uses an LLM to extract structured information from job descriptions and resum
 ## Project Structure
 
 ```text
-ResumeIQ/
+ResumeIT/
 │
 ├── resumeiq.py
 ├── jd.txt
@@ -76,7 +76,7 @@ Top 2 / Lowest 2 Candidates
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/katherin915/ResumeIQ.git
+git clone https://github.com/katherin915/ResumeIT.git
 cd ResumeIQ
 ```
 
@@ -145,7 +145,7 @@ From the project directory:
 uv run python resumeiq.py
 ```
 
-ResumeIQ will process all supported resumes in the `resumes/` directory and compare them against the job description in `jd.txt`.
+ResumeIT will process all supported resumes in the `resumes/` directory and compare them against the job description in `jd.txt`.
 
 ## Example Output
 
@@ -186,7 +186,7 @@ The system uses an LLM to convert an unstructured job description into structure
 
 ### Resume Parser
 
-ResumeIQ extracts meaningful information from resumes even when different resumes use different section headings.
+ResumeIT extracts meaningful information from resumes even when different resumes use different section headings.
 
 It identifies:
 
